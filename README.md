@@ -15,4 +15,5 @@ https://public.tableau.com/app/profile/rsundar/viz/CanadianSuperstoreDatasetVisu
 
 - **Shipping Management**
   - Analyze average lead time (i.e., difference between shipping dates & order dates in days) for
-Canadian cities with option
+Canadian cities with option to filter analysis by Product Segment, Order Priority, Ship Mode & over
+years 2016-2019
